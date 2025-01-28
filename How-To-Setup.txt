@@ -1,0 +1,2 @@
+Follow this tutorial: 
+https://stackoverflow.com/questions/66726331/how-can-i-run-mozilla-tts-coqui-tts-training-with-cuda-on-a-windows-system
