@@ -14,8 +14,9 @@ def main(text, speaker):
 
     model_choice = speaker
 
+    #Path is relative from where pipeline.py in metahumans-tts is called
     if (model_choice == "Biran") :
-        tts = TTS(model_path="./metahuman-models/Biran/checkpoint_254000.pth", config_path="./metahuman-models/Biran/config.json", progress_bar=True).to(device)
+        tts = TTS(model_path="./metahumans-tts/metahuman-models/Biran/checkpoint_254000.pth", config_path="./metahumans-tts/metahuman-models/Biran/config.json", progress_bar=True).to(device)
     if (model_choice == "Gandhi") :
         tts = TTS(model_path="./metahumans-tts/metahuman-models/Gandhi/checkpoint_1693000.pth", config_path="./metahumans-tts/metahuman-models/Gandhi/config.json", progress_bar=True).to(device)
 
