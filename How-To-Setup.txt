@@ -1,2 +1,5 @@
 Follow this tutorial: 
 https://stackoverflow.com/questions/66726331/how-can-i-run-mozilla-tts-coqui-tts-training-with-cuda-on-a-windows-system
+
+Add checkpoint files to the corresponding metahuman-models:
+https://drive.google.com/drive/folders/1z-Pbkfo7bCizVSIaSORc7c6vLnYZBsEE?usp=sharing
