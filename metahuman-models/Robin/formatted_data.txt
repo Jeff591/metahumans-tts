@@ -1,0 +1,131 @@
+audio1|you|you
+audio2|you|you
+audio3|you|you
+audio4|you|you
+audio5|Okay, I think it's been about 60. Hi, my name is Robin Martin. I'm Director of|Okay, I think it's been about 60. Hi, my name is Robin Martin. I'm Director of
+audio6|Media Services here at UC San Diego and I'm here to record a training sample of|Media Services here at UC San Diego and I'm here to record a training sample of
+audio7|my voice and likeness for testing with AI generation tools. For this content, I|my voice and likeness for testing with AI generation tools. For this content, I
+audio8|want to talk a little bit about my job, how I got here from sort of outside|want to talk a little bit about my job, how I got here from sort of outside
+audio9|industry, prior experience, a little bit of that just to give you a few minutes|industry, prior experience, a little bit of that just to give you a few minutes
+audio10|of sample to work from here. So my current job as Director of Media|of sample to work from here. So my current job as Director of Media
+audio11|Services is actually over two teams here at the university. So there's the|Services is actually over two teams here at the university. So there's the
+audio12|multimedia services team and the media teaching lab teams. I started here just|multimedia services team and the media teaching lab teams. I started here just
+audio13|over the multimedia services team in 2019. Actually, scratch that, 2018. Time|over the multimedia services team in 2019. Actually, scratch that, 2018. Time
+audio14|flies when you're having fun and learning about all the goings-on here at|flies when you're having fun and learning about all the goings-on here at
+audio15|the university. So I started in December of 2018. I had a couple of weeks of|the university. So I started in December of 2018. I had a couple of weeks of
+audio16|overlap with the outgoing retiring supervisor, so that was definitely a kind|overlap with the outgoing retiring supervisor, so that was definitely a kind
+audio17|of heads down, drinking from the fire hose for a couple of weeks, learning all|of heads down, drinking from the fire hose for a couple of weeks, learning all
+audio18|of those processes before they retired and left. This is also right before the|of those processes before they retired and left. This is also right before the
+audio19|holiday break, so had a couple weeks at the end of December and then leaving for|holiday break, so had a couple weeks at the end of December and then leaving for
+audio20|a couple weeks and then coming back in January for a clean start in 2019. During|a couple weeks and then coming back in January for a clean start in 2019. During
+audio21|that time, I was learning a lot about the current capabilities of the team, what|that time, I was learning a lot about the current capabilities of the team, what
+audio22|the team's processes were for video production, for filming, what the studio|the team's processes were for video production, for filming, what the studio
+audio23|facilities were like, what the editing processes were like, a couple of|facilities were like, what the editing processes were like, a couple of
+audio24|interesting projects that the team was already doing at that time. Studio U was|interesting projects that the team was already doing at that time. Studio U was
+audio25|in a kind of early beta phase and I was able to come in and help develop that to|in a kind of early beta phase and I was able to come in and help develop that to
+audio26|actually launch that with Jordy and Treb, who were on the team at that time.|actually launch that with Jordy and Treb, who were on the team at that time.
+audio27|We also took the the spaces that I'm in recording in now and started to improve|We also took the the spaces that I'm in recording in now and started to improve
+audio28|them. The team had started from a very small budget and had|them. The team had started from a very small budget and had
+audio29|grown over time and so these rooms were very basic. They still had tile floors.|grown over time and so these rooms were very basic. They still had tile floors.
+audio30|Lights were just clamped onto the overhead structure of the room. We didn't|Lights were just clamped onto the overhead structure of the room. We didn't
+audio31|have, you know, nice truss systems or sound absorption material on the walls,|have, you know, nice truss systems or sound absorption material on the walls,
+audio32|things like that, that would really help make the quality of the recordings in|things like that, that would really help make the quality of the recordings in
+audio33|these spaces improve. So those were some of the early projects that we|these spaces improve. So those were some of the early projects that we
+audio34|worked on in the space. And then the other main thing that we were working on|worked on in the space. And then the other main thing that we were working on
+audio35|2019 was getting the Kaltura system up and running on campus. Kaltura is a video|2019 was getting the Kaltura system up and running on campus. Kaltura is a video
+audio36|hosting platform and prior to that the team was really delivering a lot of|hosting platform and prior to that the team was really delivering a lot of
+audio37|content to either YouTube, which has some downsides because YouTube you can't|content to either YouTube, which has some downsides because YouTube you can't
+audio38|necessarily control related videos or other content that comes up when you're|necessarily control related videos or other content that comes up when you're
+audio39|on YouTube. Sometimes it's blocked for certain types of users. Not a great|on YouTube. Sometimes it's blocked for certain types of users. Not a great
+audio40|experience when you're trying to make sure students are just focusing on the|experience when you're trying to make sure students are just focusing on the
+audio41|educational content. Or the other process that the team was using at that|educational content. Or the other process that the team was using at that
+audio42|time was publishing to Camtasia, which is a software that lets you wrap a video|time was publishing to Camtasia, which is a software that lets you wrap a video
+audio43|file in a flash player and play it through a web browser. I don't know if|file in a flash player and play it through a web browser. I don't know if
+audio44|you remember what flash player was like, but those were kind of the dark|you remember what flash player was like, but those were kind of the dark
+audio45|days of the web in terms of interactivity and media capabilities|days of the web in terms of interactivity and media capabilities
+audio46|required a lot of extra work, extra downloads for the folks in their|required a lot of extra work, extra downloads for the folks in their
+audio47|browsers was not great. So Kaltura was going to be a big win for the|browsers was not great. So Kaltura was going to be a big win for the
+audio48|university, let us kind of scale up a lot more of online education and video|university, let us kind of scale up a lot more of online education and video
+audio49|delivery for the campus. So that was another major effort back in 2019. In|delivery for the campus. So that was another major effort back in 2019. In
+audio50|2020, as we all know, the world changed out from under us in substantial ways and|2020, as we all know, the world changed out from under us in substantial ways and
+audio51|we had to learn how to do remote instruction on a massive scale all of a|we had to learn how to do remote instruction on a massive scale all of a
+audio52|sudden. The university had a lot of capabilities in this area already. We|sudden. The university had a lot of capabilities in this area already. We
+audio53|were already using tools like Slack and Teams and Zoom in a limited fashion. We|were already using tools like Slack and Teams and Zoom in a limited fashion. We
+audio54|already had some people that were more or less fully remote or were working kind|already had some people that were more or less fully remote or were working kind
+audio55|of on a hybrid basis. I got to do a trial run of this in 2019 when my wife|of on a hybrid basis. I got to do a trial run of this in 2019 when my wife
+audio56|broke her ankle and I had to all of a sudden take over care of my two sons for|broke her ankle and I had to all of a sudden take over care of my two sons for
+audio57|a little while. And so I was having to come to campus for a couple of hours in|a little while. And so I was having to come to campus for a couple of hours in
+audio58|the middle of the day and then run home and get them from school and then|the middle of the day and then run home and get them from school and then
+audio59|continue trying to do meetings, email, things like that, remotely from home. So|continue trying to do meetings, email, things like that, remotely from home. So
+audio60|I had, I was prepared for it a little bit in 2020, but definitely it took a|I had, I was prepared for it a little bit in 2020, but definitely it took a
+audio61|while to get the whole university and the team adapted to what remote work and|while to get the whole university and the team adapted to what remote work and
+audio62|hybrid work would look like as we kind of got through the pandemic phase. Also|hybrid work would look like as we kind of got through the pandemic phase. Also
+audio63|clearly it changed sort of our production processes and how we worked|clearly it changed sort of our production processes and how we worked
+audio64|with faculty, how many people we could have in a room, masking mandates, people|with faculty, how many people we could have in a room, masking mandates, people
+audio65|doing kind of wellness checks before they came to school to make sure they|doing kind of wellness checks before they came to school to make sure they
+audio66|didn't have any symptoms, all those kinds of things. So all kinds of policy|didn't have any symptoms, all those kinds of things. So all kinds of policy
+audio67|changes and process changes into 2021 as we kind of worked through those|changes and process changes into 2021 as we kind of worked through those
+audio68|pandemic times. And then in 2022, we started to kind of resume more normal|pandemic times. And then in 2022, we started to kind of resume more normal
+audio69|operations. The team was growing and we hired additional staff to help us provide|operations. The team was growing and we hired additional staff to help us provide
+audio70|more video production, additional producers were working on that. And then|more video production, additional producers were working on that. And then
+audio71|at the end of 2022, I took over the media teaching lab team when the|at the end of 2022, I took over the media teaching lab team when the
+audio72|manager who was over that team and had been for 15 or 20 years retired kind of|manager who was over that team and had been for 15 or 20 years retired kind of
+audio73|all of a sudden out of the blue. So my boss Dan Suki asked me if I would be|all of a sudden out of the blue. So my boss Dan Suki asked me if I would be
+audio74|interested in helping cover that team too since they do analogous work. They're|interested in helping cover that team too since they do analogous work. They're
+audio75|helping students develop and learn how to do media production. So learning, you|helping students develop and learn how to do media production. So learning, you
+audio76|know, the basics of a DSLR all the way up to, you know, Canon C100, Sony FS700s|know, the basics of a DSLR all the way up to, you know, Canon C100, Sony FS700s
+audio77|and higher-end types of film cameras and 16 millimeter film work as well, which I|and higher-end types of film cameras and 16 millimeter film work as well, which I
+audio78|don't have a background in but the staff at the Media Lab do and I've actually|don't have a background in but the staff at the Media Lab do and I've actually
+audio79|really enjoyed learning a lot more about analog film production from them. So|really enjoyed learning a lot more about analog film production from them. So
+audio80|starting in 2022, I began helping the media teaching lab team as well. It was|starting in 2022, I began helping the media teaching lab team as well. It was
+audio81|great for me to also see just a whole different side of the university after|great for me to also see just a whole different side of the university after
+audio82|working here for a few years and see a lot more of the kind of in-person class|working here for a few years and see a lot more of the kind of in-person class
+audio83|delivery. The multimedia services team is so much about supporting remote and|delivery. The multimedia services team is so much about supporting remote and
+audio84|online instruction through video work and helping instructors record lectures|online instruction through video work and helping instructors record lectures
+audio85|and other kinds of content. But the media teaching lab is more about, okay, what is|and other kinds of content. But the media teaching lab is more about, okay, what is
+audio86|the very hands-on education that's happening on this campus? So it was nice|the very hands-on education that's happening on this campus? So it was nice
+audio87|for me to see more of that and get to learn more of the faculty, more of the|for me to see more of that and get to learn more of the faculty, more of the
+audio88|departments that that group works with. Also the challenges of being in a|departments that that group works with. Also the challenges of being in a
+audio89|building that's very old. That's one of the early buildings on campus. There's a|building that's very old. That's one of the early buildings on campus. There's a
+audio90|studio space in that building that was, I think, put together back in the 60s or|studio space in that building that was, I think, put together back in the 60s or
+audio91|70s. So it's been there for a very long time. Kind of the building is built|70s. So it's been there for a very long time. Kind of the building is built
+audio92|around it. The rest of the departments are kind of around this very unique|around it. The rest of the departments are kind of around this very unique
+audio93|space. So learning how to take care of that space and learning how to kind of|space. So learning how to take care of that space and learning how to kind of
+audio94|keep growing and evolving it so that it meets the needs of current productions.|keep growing and evolving it so that it meets the needs of current productions.
+audio95|One of the studio spaces there still uses, you know, 2K tungsten lights, which|One of the studio spaces there still uses, you know, 2K tungsten lights, which
+audio96|is great, except for the fact that the electrical box that powers it is also|is great, except for the fact that the electrical box that powers it is also
+audio97|about 60 years old and starting to fail. And so figuring out how we can work with|about 60 years old and starting to fail. And so figuring out how we can work with
+audio98|facilities to keep that kind of very unique tool set and those facilities up|facilities to keep that kind of very unique tool set and those facilities up
+audio99|and running while also in our more modern LED lighting-based space,|and running while also in our more modern LED lighting-based space,
+audio100|continuing to evolve that and take advantage of newer fixtures and|continuing to evolve that and take advantage of newer fixtures and
+audio101|production processes in that space. One of the interesting projects that we have|production processes in that space. One of the interesting projects that we have
+audio102|just done there is we took what used to be a full control room for live|just done there is we took what used to be a full control room for live
+audio103|production TV studio class and shrunk that down into essentially a mobile cart.|production TV studio class and shrunk that down into essentially a mobile cart.
+audio104|So going from a giant stream, I'm forgetting the name of the product, going|So going from a giant stream, I'm forgetting the name of the product, going
+audio105|from a giant essentially desk with monitors and switcher-based system to|from a giant essentially desk with monitors and switcher-based system to
+audio106|an ATM studio that fits on a cart with a couple of monitors and a couple of|an ATM studio that fits on a cart with a couple of monitors and a couple of
+audio107|devices underneath it has been quite a shift because we needed that space for|devices underneath it has been quite a shift because we needed that space for
+audio108|where that production room was for flats, storage for a prop room and things like|where that production room was for flats, storage for a prop room and things like
+audio109|that. So it's a fun kind of exercise in miniaturization and modernization and so|that. So it's a fun kind of exercise in miniaturization and modernization and so
+audio110|far it's working pretty well and we've had a couple of classes use that system|far it's working pretty well and we've had a couple of classes use that system
+audio111|and it's great to see how the students pick that up, learn how to do a|and it's great to see how the students pick that up, learn how to do a
+audio112|multi-camera live switched show both from the creative side and production|multi-camera live switched show both from the creative side and production
+audio113|design all the way through to the live capture. All right and then lastly|design all the way through to the live capture. All right and then lastly
+audio114|outside of work I've had a kind of a varied athletic career. I started off|outside of work I've had a kind of a varied athletic career. I started off
+audio115|playing you know soccer and little league when I was a kid. From there moved|playing you know soccer and little league when I was a kid. From there moved
+audio116|on to basketball and volleyball when I was in middle school and high school as|on to basketball and volleyball when I was in middle school and high school as
+audio117|I started to grow to to over six feet and especially growing up in Hawaii|I started to grow to to over six feet and especially growing up in Hawaii
+audio118|where there are not a lot of people over six feet I was definitely one of the|where there are not a lot of people over six feet I was definitely one of the
+audio119|taller ones and sports that took advantage of that were ideal. After high|taller ones and sports that took advantage of that were ideal. After high
+audio120|school when I went to college at SDSU I tried to get on to the volleyball team I|school when I went to college at SDSU I tried to get on to the volleyball team I
+audio121|came very close as a walk-on a couple of times and then played club and|came very close as a walk-on a couple of times and then played club and
+audio122|eventually was scouted by the rowing team. They had a pipeline of taking|eventually was scouted by the rowing team. They had a pipeline of taking
+audio123|folks who didn't make it onto the some of the other teams that were still|folks who didn't make it onto the some of the other teams that were still
+audio124|tall and athletic and getting them into rowing so I did that for a couple of|tall and athletic and getting them into rowing so I did that for a couple of
+audio125|years and competed for SDSU which was a ton of fun and then after school I got|years and competed for SDSU which was a ton of fun and then after school I got
+audio126|into mountain biking for a few years which was super fun. Some of my buddies|into mountain biking for a few years which was super fun. Some of my buddies
+audio127|in grad school were avid mountain bikers and they got me up to speed on mountain|in grad school were avid mountain bikers and they got me up to speed on mountain
+audio128|biking all around here in San Diego. There's tons of great trails and then|biking all around here in San Diego. There's tons of great trails and then
+audio129|since then I've really turned more towards trail running and ultra|since then I've really turned more towards trail running and ultra
+audio130|distances. The longest distance I've run so far is a 50k but I'm trying to work|distances. The longest distance I've run so far is a 50k but I'm trying to work
+audio131|up towards a 50 miler maybe a hundred miler at some point down the road.|up towards a 50 miler maybe a hundred miler at some point down the road.
